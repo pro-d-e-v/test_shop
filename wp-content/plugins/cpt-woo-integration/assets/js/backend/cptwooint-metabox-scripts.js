@@ -1,0 +1,1 @@
+(()=>{var o;(o=jQuery)(document).ready((function(){o("body").find(".cptwooint-product-metabox.cptwoo-pro-disable").each((function(){o(this).parents(".postbox").addClass("pro-disable-action"),o(this).hasClass("always-show-pro-label")&&o(this).parents(".postbox").addClass("always-show-pro-button")}))}))})();

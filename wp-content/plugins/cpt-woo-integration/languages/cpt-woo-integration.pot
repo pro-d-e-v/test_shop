@@ -1,0 +1,116 @@
+# Copyright (C) 2024 Custom Post Type WooCommerce Integration
+# This file is distributed under the same license as the Custom Post Type WooCommerce Integration package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Post Type WooCommerce Integration\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-12 06:42+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../TinyApp/Controllers/Dependencies.php:74, ../TinyApp/Controllers/Dependencies.php:64
+msgid "requires"
+msgstr ""
+
+#: ../TinyApp/Controllers/Dependencies.php:75, ../TinyApp/Controllers/Dependencies.php:65
+msgid "WooCommerce"
+msgstr ""
+
+#: ../TinyApp/Controllers/Dependencies.php:76
+msgid "plugin to be installed and activated. Please install WooCommerce to continue."
+msgstr ""
+
+#: ../TinyApp/Controllers/Dependencies.php:78
+msgid "Install WooCommerce"
+msgstr ""
+
+#: ../TinyApp/Controllers/Dependencies.php:66
+msgid "plugin to be active. Please activate WooCommerce to continue."
+msgstr ""
+
+#: ../TinyApp/Controllers/Dependencies.php:68
+msgid "Activate WooCommerce"
+msgstr ""
+
+#. translators: 1: Plugin name 2: PHP 3: Required PHP version
+#: ../TinyApp/Controllers/Dependencies.php:111
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: ../TinyApp/Controllers/Dependencies.php:112
+msgid "Custom Post Type Woocommerce Integration"
+msgstr ""
+
+#: ../TinyApp/Controllers/Dependencies.php:113
+msgid "PHP"
+msgstr ""
+
+#: ../TinyApp/Controllers/Dependencies.php:131
+msgid "and"
+msgstr ""
+
+#: ../TinyApp/Hooks/FilterHooks.php:131
+msgid "Comments"
+msgstr ""
+
+#: ../TinyApp/Hooks/FilterHooks.php:143
+msgid "Type"
+msgstr ""
+
+#: ../TinyApp/Hooks/FilterHooks.php:215
+msgid "Facing issue?"
+msgstr ""
+
+#: ../TinyApp/Hooks/FilterHooks.php:215
+msgid "Please open a support ticket."
+msgstr ""
+
+#: ../TinyApp/Hooks/FilterHooks.php:353
+msgid "Settings"
+msgstr ""
+
+#: ../TinyApp/Hooks/FilterHooks.php:355
+msgid "Go Pro"
+msgstr ""
+
+#: ../TinyApp/Traits/CptProductDataStoreReadTrait.php:26
+msgid "Invalid product."
+msgstr ""
+
+#: ../TinyApp/Traits/SingletonTrait.php:41, ../TinyApp/Traits/SingletonTrait.php:50
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: ../TinyApp/Controllers/Admin/AdminMenu.php:52, ../TinyApp/Controllers/Admin/AdminMenu.php:53
+msgid "WC Integration"
+msgstr ""
+
+#: ../TinyApp/Controllers/Admin/AdminMenu.php:61
+msgid "Buy Pro"
+msgstr ""
+
+#: ../TinyApp/Controllers/Admin/Api.php:92
+msgid "Action Failed "
+msgstr ""
+
+#: ../TinyApp/Controllers/Admin/Api.php:96
+msgid "Cache Cleared."
+msgstr ""
+
+#: ../TinyApp/Controllers/Admin/Api.php:109
+msgid "Update failed. Maybe change not found. "
+msgstr ""
+
+#: ../TinyApp/Controllers/Admin/Api.php:153
+msgid "Updated."
+msgstr ""
+
+#: ../TinyApp/Controllers/Notice/BlackFriday.php:148
+msgid "Don't miss out on our biggest sale of the year! Get your"
+msgstr ""
